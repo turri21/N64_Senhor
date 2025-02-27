@@ -2,6 +2,7 @@
 
 Tested: Working Video 720p, 1080p & Sound
 
+Dev notes: To synthesize the turbo core (80MHz) switch to the turbo branch.
 ___
 ## Hardware Requirements
 SDRAM of any size is required.
