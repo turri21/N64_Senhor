@@ -1,4 +1,8 @@
+-=(N64_Senhor notes)=-
 
+Tested: Working Video 720p, 1080p & Sound
+
+___
 ## Hardware Requirements
 SDRAM of any size is required.
 32Mbyte SDRAM can only be used for games up to 16Mbyte in size.
